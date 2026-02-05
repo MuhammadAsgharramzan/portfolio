@@ -20,11 +20,13 @@ export function Hero() {
                     transition={{ duration: 0.5 }}
                     className="space-y-6"
                 >
-                    <div className="inline-block rounded-lg bg-muted px-3 py-1 text-sm">
+                    <div className="inline-block rounded-lg bg-muted px-3 py-1 text-sm mb-4">
                         Available for freelance & full-time roles
                     </div>
 
                     <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl lg:text-7xl">
+                        Hi, I&apos;m <span className="text-primary">Muhammad Asghar</span>
+                        <br />
                         Full-Stack Developer & <br className="hidden sm:inline" />
                         <span className="text-primary">AI Automation Specialist</span>
                     </h1>

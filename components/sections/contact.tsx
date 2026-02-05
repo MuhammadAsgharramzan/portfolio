@@ -29,15 +29,27 @@ export function Contact() {
                         <CardHeader>
                             <CardTitle>Contact Information</CardTitle>
                             <CardDescription>
-                                Feel free to reach out through any of these channels.
+                                Based in Karachi, Pakistan. Open to global opportunities.
                             </CardDescription>
                         </CardHeader>
                         <CardContent className="space-y-4">
                             <div className="flex items-center space-x-3">
                                 <Mail className="h-5 w-5 text-primary" />
-                                <a href="mailto:hello@example.com" className="text-muted-foreground hover:text-primary transition-colors">
-                                    hello@example.com
+                                <a href="mailto:asgharusa@gmail.com" className="text-muted-foreground hover:text-primary transition-colors">
+                                    asgharusa@gmail.com
                                 </a>
+                            </div>
+                            <div className="flex items-center space-x-3">
+                                <Mail className="h-5 w-5 text-primary" />
+                                <a href="mailto:departuretravelandtours@gmail.com" className="text-muted-foreground hover:text-primary transition-colors">
+                                    departuretravelandtours@gmail.com
+                                </a>
+                            </div>
+                            <div className="flex items-center space-x-3">
+                                <span className="h-5 w-5 text-primary flex items-center justify-center font-bold">📞</span>
+                                <span className="text-muted-foreground">
+                                    (+92) 334 2341105
+                                </span>
                             </div>
                             <div className="flex items-center space-x-3">
                                 <Calendar className="h-5 w-5 text-primary" />
@@ -54,7 +66,7 @@ export function Contact() {
                         </CardHeader>
                         <CardContent className="flex gap-4">
                             <Button variant="outline" size="icon" asChild>
-                                <Link href="#" target="_blank">
+                                <Link href="https://github.com/MuhammadAsgharramzan" target="_blank">
                                     <Github className="h-4 w-4" />
                                 </Link>
                             </Button>

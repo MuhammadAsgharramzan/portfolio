@@ -11,7 +11,7 @@ export function About() {
                 <div className="flex-1 space-y-6">
                     <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">About Me</h2>
                     <p className="text-muted-foreground md:text-lg leading-relaxed">
-                        I am a passionate Full-Stack Developer and AI Specialist dedicated to building next-generation applications.
+                        I am <strong className="text-primary">Muhammad Asghar</strong>, a passionate Full-Stack Developer and AI Specialist based in Karachi.
                         With a deep understanding of modern web technologies and artificial intelligence, I help businesses automate workflows,
                         integrate LLMs, and ship scalable products.
                     </p>

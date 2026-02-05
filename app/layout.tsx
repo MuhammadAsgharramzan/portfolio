@@ -8,8 +8,8 @@ import { Footer } from "@/components/shared/footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "AI Full-Stack Portfolio",
-  description: "Portfolio of a Full-Stack Developer & AI Automation Specialist",
+  title: "Muhammad Asghar | AI Full-Stack Portfolio",
+  description: "Portfolio of Muhammad Asghar - Full-Stack Developer & AI Automation Specialist based in Karachi.",
 };
 
 export default function RootLayout({
