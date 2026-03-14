@@ -23,7 +23,7 @@ const projects = [
         tags: ["AI", "Robotics", "Computer Vision", "Python"],
         links: {
             demo: "https://physical-ai-humanoid-robotics-tan.vercel.app",
-            repo: "#",
+            repo: "https://github.com/MuhammadAsgharramzan/physical-ai-humanoid-robotics",
         },
     },
     {
@@ -32,7 +32,7 @@ const projects = [
         tags: ["Next.js", "Vercel", "React", "Tailwind CSS"],
         links: {
             demo: "https://hackathon-ii-todo-app-d3c5.vercel.app",
-            repo: "#",
+            repo: "https://github.com/MuhammadAsgharramzan/Hackathon-II-Todo-App",
         },
     },
     {
