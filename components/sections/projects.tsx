@@ -9,6 +9,15 @@ import Link from "next/link"
 
 const projects = [
     {
+        title: "MechaniXpress",
+        description: "Automotive service platform connecting customers with professional mechanics. Features appointment booking, service tracking, and real-time notifications.",
+        tags: ["Next.js", "Vercel", "Tailwind CSS", "React"],
+        links: {
+            demo: "https://mechani-xpress-g8tu.vercel.app",
+            repo: "#",
+        },
+    },
+    {
         title: "AI-Powered SaaS Application",
         description: "A tool that uses OpenAI to generate marketing content automatically. Features real-time streaming, user authentication, and subscription management.",
         tags: ["Next.js", "OpenAI SDK", "Tailwind CSS", "Stripe"],
