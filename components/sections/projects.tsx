@@ -18,6 +18,24 @@ const projects = [
         },
     },
     {
+        title: "Physical AI Humanoid Robotics",
+        description: "Advanced humanoid robot with AI-powered movement and interaction capabilities. Integrates computer vision, motor control, and machine learning for autonomous behavior.",
+        tags: ["AI", "Robotics", "Computer Vision", "Python"],
+        links: {
+            demo: "https://physical-ai-humanoid-robotics-tan.vercel.app",
+            repo: "#",
+        },
+    },
+    {
+        title: "Hackathon II Todo App",
+        description: "Full-featured task management application built during hackathon. Features real-time collaboration, priority tagging, and progress tracking with intuitive UI.",
+        tags: ["Next.js", "Vercel", "React", "Tailwind CSS"],
+        links: {
+            demo: "https://hackathon-ii-todo-app-d3c5.vercel.app",
+            repo: "#",
+        },
+    },
+    {
         title: "AI-Powered SaaS Application",
         description: "A tool that uses OpenAI to generate marketing content automatically. Features real-time streaming, user authentication, and subscription management.",
         tags: ["Next.js", "OpenAI SDK", "Tailwind CSS", "Stripe"],
