@@ -32,7 +32,7 @@ export function Navbar() {
                     ))}
                     <ModeToggle />
                     <Button asChild size="sm">
-                        <Link href="/resume.pdf" target="_blank">Resume</Link>
+                        <Link href="/resume.pdf" download>Download Resume</Link>
                     </Button>
                 </nav>
                 <div className="flex md:hidden items-center gap-4">
