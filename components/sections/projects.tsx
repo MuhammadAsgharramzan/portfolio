@@ -9,6 +9,15 @@ import Link from "next/link"
 
 const projects = [
     {
+        title: "AI Video Detector",
+        description: "Detect AI-generated videos and images with confidence scores. Features frame-by-frame analysis, visual confidence timeline, and third-party API integrations (Hive, Sightengine). Built with FastAPI backend and Next.js 14 frontend.",
+        tags: ["Next.js", "FastAPI", "TypeScript", "OpenCV", "AI/ML"],
+        links: {
+            demo: "#",
+            repo: "https://github.com/MuhammadAsgharramzan/AI-Video-Detector",
+        },
+    },
+    {
         title: "MechaniXpress",
         description: "Automotive service platform connecting customers with professional mechanics. Features appointment booking, service tracking, and real-time notifications.",
         tags: ["Next.js", "Vercel", "Tailwind CSS", "React"],
