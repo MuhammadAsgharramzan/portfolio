@@ -13,7 +13,7 @@ const projects = [
         description: "Detect AI-generated videos and images with confidence scores. Features frame-by-frame analysis, visual confidence timeline, and third-party API integrations (Hive, Sightengine). Built with FastAPI backend and Next.js 14 frontend.",
         tags: ["Next.js", "FastAPI", "TypeScript", "OpenCV", "AI/ML"],
         links: {
-            demo: "#",
+            demo: "ai-video-detector-coral.vercel.app",
             repo: "https://github.com/MuhammadAsgharramzan/AI-Video-Detector",
         },
     },
