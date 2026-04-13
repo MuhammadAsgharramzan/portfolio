@@ -9,6 +9,15 @@ import Link from "next/link"
 
 const projects = [
     {
+        title: "DigiAucta",
+        description: "The Marketplace for AI & Digital Products, Buy and sell AI tools, models, datasets, and SaaS businesses through transparent, real-time auctions with escrow-protected payments.",
+        tags: ["Next.js", "Tailwind CSS", "FastAPI", "TypeScript", "Supabase" ],
+        links: {
+            demo: "https://www.digiaucta.com/",
+            repo: "#",
+        },
+    },
+    {
         title: "AI Video Detector",
         description: "Detect AI-generated videos and images with confidence scores. Features frame-by-frame analysis, visual confidence timeline, and third-party API integrations (Hive, Sightengine). Built with FastAPI backend and Next.js 14 frontend.",
         tags: ["Next.js", "FastAPI", "TypeScript", "OpenCV", "AI/ML"],
