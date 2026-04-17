@@ -25,7 +25,7 @@ const projects = [
         image: "/Aidetect.jpeg",
         tags: ["Next.js", "FastAPI", "TypeScript", "OpenCV", "AI/ML"],
         links: {
-            demo: "#",
+            demo: "https://ai-video-detector-coral.vercel.app/",
             repo: "https://github.com/MuhammadAsgharramzan/AI-Video-Detector",
         },
     },
